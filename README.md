@@ -26,5 +26,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulsd380&theme=default)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsd380&show_icons=true&locale=en" alt="rahulsd380" /></p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulsd380&theme=default)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsd380&" alt="rahulsd380" /></p>
 
