@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **React, JavaScript, Railwind CSS**
+- 💬 Ask me about **React, JavaScript, Tailwind CSS**
 
 - 📫 How to reach me **rahulsd380@gmail.com**
 
