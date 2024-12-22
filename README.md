@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/p2LvRLx/Github-banner.png)]
+![MasterHead](https://i.ibb.co/p2LvRLx/Github-banner.png)
 <h1 align="center">Hi 👋, I'm Rahul Sutradhar</h1>
 <h3 align="center">MERN Explorer | Innovator | Developer</h3>
 
