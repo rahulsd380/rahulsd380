@@ -5,14 +5,14 @@
 <h1 align="center">Hi 👋, I'm Rahul Sutradhar</h1>
 <h3 align="center">MERN Explorer | Innovator | Developer</h3>
 
-<p align="center">🔭 I’m currently working on <b>Next.js</b></p>
-<p align="center">🌱 I’m currently learning <b>Next.js</b></p>
-<p align="center">💬 Ask me about <b>React, JavaScript, Tailwind CSS</b></p>
-<p align="center">📫 How to reach me <b>rahulsd380@gmail.com</b></p>
-<p align="center">⚡ Fun fact <b>🌌 Stargazer Developer 🚀</b></p>
+<p align="left">🔭 I’m currently working on <b>Next.js</b></p>
+<p align="left">🌱 I’m currently learning <b>Next.js</b></p>
+<p align="left">💬 Ask me about <b>React, JavaScript, Tailwind CSS</b></p>
+<p align="left">📫 How to reach me <b>rahulsd380@gmail.com</b></p>
+<p align="left">⚡ Fun fact <b>🌌 Stargazer Developer 🚀</b></p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://fb.com/rahulsd836" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulsd836" height="30" width="40" />
   </a>
@@ -53,17 +53,11 @@
   </a> 
 </p>
 
-<p align="center">
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsd380&show_icons=true&locale=en&layout=compact" alt="rahulsd380" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulsd380&theme=default" alt="stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulsd380&show_icons=true&locale=en" alt="rahulsd380" />
-</p>
+</div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahulsd380&show_icons=true&locale=en" alt="rahulsd380" />
 
