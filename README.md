@@ -34,10 +34,15 @@
        style="width: 100%; height: 100%; object-fit: contain;" />
 </div>
 
-<div align="center" style="width: 100%; display: flex; align-items: center; gap: 30px; height: 100%; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulsd380&theme=default" alt="stats" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsd380&show_icons=true&locale=en&layout=compact" alt="rahulsd380" style="height: 200px;" />
+<div style="width: 100%; display: flex; align-items: center; gap: 30px; height: 100%; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulsd380&theme=default" 
+       alt="stats" 
+       style="flex: 1; max-width: 100%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsd380&show_icons=true&locale=en&layout=compact" 
+       alt="rahulsd380" 
+       style="flex: 1; max-width: 100%; height: 200px;" />
 </div>
+
 
 
 <div style="width: 100%; height: 200px; display: flex; justify-content: center; align-items: center; overflow: hidden;">
