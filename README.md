@@ -14,41 +14,41 @@
 - ⚡ Fun fact **🌌 Stargazer Developer 🚀**
 
 <h3 align="left" style="margin-top: 20px;">Languages and Tools:</h3>
-<p align="center"> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/5kHhJCg/CSS.png" alt="CSS" width="60" height="60" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/qn6dX54/html.png" alt="HTML" width="60" height="60" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/dmG6LsP/javascript.png" alt="JavaScript" width="60" height="60" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/m91Xh61/mongodb.png" alt="MongoDB" width="60" height="60" />
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/YRc9DYP/Nextjs.png" alt="Next.js" width="60" height="60" />
-</a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/RvPvyTk/nodejs.png" alt="Node.js" width="60" height="60" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/1Xg60wg/postgres.png" alt="PostgreSQL" width="60" height="60" />
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/2t3PDL8/Reactjs.png" alt="React.js" width="60" height="60" />
-</a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/yXqB53p/Redux.png" alt="Redux" width="60" height="60" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/V3RbKRM/tailwind-css.png" alt="Tailwind CSS" width="60" height="60" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/5WX8HJc/typescript.png" alt="TypeScript" width="60" height="60" />
-</a>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/5kHhJCg/CSS.png" alt="CSS" width="60" height="60" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/qn6dX54/html.png" alt="HTML" width="60" height="60" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/dmG6LsP/javascript.png" alt="JavaScript" width="60" height="60" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/m91Xh61/mongodb.png" alt="MongoDB" width="60" height="60" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/YRc9DYP/Nextjs.png" alt="Next.js" width="60" height="60" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/RvPvyTk/nodejs.png" alt="Node.js" width="60" height="60" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/1Xg60wg/postgres.png" alt="PostgreSQL" width="60" height="60" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/2t3PDL8/Reactjs.png" alt="React.js" width="60" height="60" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/yXqB53p/Redux.png" alt="Redux" width="60" height="60" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/V3RbKRM/tailwind-css.png" alt="Tailwind CSS" width="60" height="60" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/5WX8HJc/typescript.png" alt="TypeScript" width="60" height="60" />
+  </a>
+</div>
 
 <h3 align="left" style="margin-top: 20px;">Contribution Overview:</h3>
 <div style="width: 100%; height: 200px; display: flex; justify-content: center; align-items: center; overflow: hidden; margin-top: 10px;">
