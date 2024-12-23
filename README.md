@@ -19,7 +19,7 @@
   <img src="https://i.ibb.co/WccXRJV/Nextjs.png" alt="Next.js" width="60" height="60" />
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/VJvwr10/Reactjs.png" alt="React.js" width="60" height="60" />
+  <img src="https://i.ibb.co.com/YB5sQ21/Reactjs.png" alt="React.js" width="60" height="60" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://i.ibb.co/V3RbKRM/tailwind-css.png" alt="Tailwind CSS" width="60" height="60" />
