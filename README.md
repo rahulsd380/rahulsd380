@@ -31,7 +31,7 @@
 </div>
 
 
-<div style="width: 100%; height: 300px; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+<div style="width: 100%; height: 300px; display: flex; justify-content: center; align-items: center; overflow: hidden; margin-top:10px">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulsd380&theme=default" 
        alt="profile details" 
        style="width: 100%; height: 100%; object-fit: cover;" />
