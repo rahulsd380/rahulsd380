@@ -34,6 +34,8 @@
        style="width: 100%; height: 100%; object-fit: contain;" />
 </div>
 
+
+<h3 align="left">GitHub Statistics:</h3>
 <div style="width: 100%; display: flex; align-items: center; gap: 30px; height: 100%; flex-wrap: wrap;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulsd380&theme=default" 
        alt="stats" 
