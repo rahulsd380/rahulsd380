@@ -66,17 +66,17 @@
 
   <!-- WhatsApp -->
   <a href="https://wa.me/+8801608249337" target="blank">
-    <img align="center" src="https://i.ibb.co/7QxQPR5/whatsapp.png" alt="WhatsApp" height="30" width="40" />
+    <img align="center" src="https://i.ibb.co/7QxQPR5/whatsapp.png" alt="WhatsApp" height="30" width="30" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rahul-sutradhar-a99749202/" target="blank">
-    <img align="center" src="https://i.ibb.co/CtLK0cN/linkedin.png" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://i.ibb.co/CtLK0cN/linkedin.png" alt="LinkedIn" height="30" width="30" />
   </a>
 
   <!-- Gmail -->
   <a href="mailto:rahulsd380@gmail.com" target="blank">
-    <img align="center" src="https://i.ibb.co/fdZFd93/gmail.png" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://i.ibb.co/fdZFd93/gmail.png" alt="Gmail" height="30" width="30" />
   </a>
 </p>
 
