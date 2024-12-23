@@ -35,8 +35,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; height: 100%; flex-wrap: wrap;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulsd380&theme=default" alt="stats" style="height: 200px;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsd380&show_icons=true&locale=en&layout=compact" alt="rahulsd380" style="height: 200px;" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsd380&show_icons=true&locale=en&layout=compact" alt="rahulsd380" style="height: 200px;" />
 </div>
 
 
