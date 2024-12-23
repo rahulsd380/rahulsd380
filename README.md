@@ -15,24 +15,39 @@
 
 <h3 align="left" style="margin-top: 20px;">Languages and Tools:</h3>
 <p align="center"> 
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/WccXRJV/Nextjs.png" alt="Next.js" width="60" height="60" />
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/5kHhJCg/CSS.png" alt="CSS" width="60" height="60" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/qn6dX54/html.png" alt="HTML" width="60" height="60" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/dmG6LsP/javascript.png" alt="JavaScript" width="60" height="60" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/m91Xh61/mongodb.png" alt="MongoDB" width="60" height="60" />
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/YRc9DYP/Nextjs.png" alt="Next.js" width="60" height="60" />
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/RvPvyTk/nodejs.png" alt="Node.js" width="60" height="60" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/1Xg60wg/postgres.png" alt="PostgreSQL" width="60" height="60" />
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co.com/YB5sQ21/Reactjs.png" alt="React.js" width="60" height="60" />
+  <img src="https://i.ibb.co/2t3PDL8/Reactjs.png" alt="React.js" width="60" height="60" />
+</a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/yXqB53p/Redux.png" alt="Redux" width="60" height="60" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://i.ibb.co/V3RbKRM/tailwind-css.png" alt="Tailwind CSS" width="60" height="60" />
 </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/5WX8HJc/typescript.png" alt="TypeScript" width="60" height="60" />
+</a>
 </p>
 
 <h3 align="left" style="margin-top: 20px;">Contribution Overview:</h3>
