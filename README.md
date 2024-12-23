@@ -57,13 +57,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsd380&show_icons=true&locale=en&layout=compact" alt="rahulsd380" />
 </p>
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulsd380&theme=default" alt="stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulsd380&show_icons=true&locale=en" alt="rahulsd380" />
-</p>
+</div>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulsd380&theme=default" alt="profile-details" />
