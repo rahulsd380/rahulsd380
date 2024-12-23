@@ -30,4 +30,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rahulsd380&show_icons=true&locale=en" alt="rahulsd380" style="height: 200px;" />
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulsd380&theme=default)
+
+<div style="width: 100%; height: 300px; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulsd380&theme=default" 
+       alt="profile details" 
+       style="width: 100%; height: 100%; object-fit: cover;" />
+</div>
