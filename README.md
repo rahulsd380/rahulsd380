@@ -54,7 +54,7 @@
 </p>
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items:center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsd380&show_icons=true&locale=en&layout=compact" alt="rahulsd380" />
   <img src="https://github-readme-stats.vercel.app/api?username=rahulsd380&show_icons=true&locale=en" alt="rahulsd380" />
 </div>
