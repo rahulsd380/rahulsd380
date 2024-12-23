@@ -14,7 +14,7 @@
 - ⚡ Fun fact **🌌 Stargazer Developer 🚀**
 
 <h3 align="left" style="margin-top: 20px;">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://i.ibb.co/5kHhJCg/CSS.png" alt="CSS" width="60" height="60" />
   </a>
