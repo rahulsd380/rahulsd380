@@ -59,10 +59,27 @@
 
 <h3 align="left" style="margin-top: 20px;">Connect with me:</h3>
 <p align="left">
+  <!-- Facebook -->
   <a href="https://fb.com/rahulsd836" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulsd836" height="30" width="40" />
   </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/+8801608249337" target="blank">
+    <img align="center" src="https://i.ibb.co/7QxQPR5/whatsapp.png" alt="WhatsApp" height="30" width="40" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rahul-sutradhar-a99749202/" target="blank">
+    <img align="center" src="https://i.ibb.co/CtLK0cN/linkedin.png" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:rahulsd380@gmail.com" target="blank">
+    <img align="center" src="https://i.ibb.co/fdZFd93/gmail.png" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left" style="margin-top: 20px;">Current GitHub Streak:</h3>
 <div style="width: 100%; height: 200px; display: flex; justify-content: center; align-items: center; overflow: hidden;">
